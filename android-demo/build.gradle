@@ -40,7 +40,7 @@ buildscript {
         mavenLocal()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:2.3.0'   //last version Jan 2016
+        classpath 'com.android.tools.build:gradle:2.3.3'   //last version Jan 2016
     }
 }
 
